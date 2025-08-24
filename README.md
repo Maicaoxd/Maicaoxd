@@ -22,4 +22,10 @@
  
   ![Snake animation](https://github.com/Maicaoxd/Maicaoxd/blob/output/github-contribution-grid-snake.svg)
 
+  <!-- claro -->
+![Snake animation](https://raw.githubusercontent.com/Maicaoxd/Maicaoxd/output/github-contribution-grid-snake.svg)
+
+<!-- dark -->
+![Snake animation (dark)](https://raw.githubusercontent.com/Maicaoxd/Maicaoxd/output/github-contribution-grid-snake-dark.svg)
+
 </div>
