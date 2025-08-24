@@ -20,9 +20,6 @@
   <a href="https://www.instagram.com/m4icao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maicon-alves-guedes-248584210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Maicaoxd/Maicaoxd/blob/output/github-contribution-grid-snake.svg)
-
-  <!-- claro -->
-  ![Snake animation](https://raw.githubusercontent.com/Maicaoxd/Maicaoxd/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 </div>
