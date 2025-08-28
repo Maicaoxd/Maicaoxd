@@ -8,6 +8,7 @@
     
 <div style="display: inline_block"><br>
 
+## 🖥️ Tecnologias & Ferramentas
   <!-- Front-end -->
   <h3>Front-end</h3>
   <img align="center" alt="HTML" height="30" width="40" 
@@ -25,7 +26,7 @@
   <img align="center" alt="Quasar" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" />
 
-  <br><br>
+  <br>
 
   <!-- Back-end -->
   <h3>Back-end</h3>
@@ -36,14 +37,14 @@
   <img align="center" alt="Java" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-  <br><br>
+  <br>
 
   <!-- Testes -->
   <h3>Testes</h3>
   <img align="center" alt="Jest" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
-  <br><br>
+  <br>
 
   <!-- Banco de Dados -->
   <h3>Banco de Dados</h3>
@@ -51,6 +52,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQL Server" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+   <br><br>
 
 </div>
  
