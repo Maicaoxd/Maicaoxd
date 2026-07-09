@@ -31,9 +31,11 @@ Atualmente, venho aprofundando meus estudos em:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Maicaoxd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maicaoxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maicaoxd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600&v=1)](https://github.com/Maicaoxd)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maicaoxd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600&v=1)](https://github.com/Maicaoxd)
+
 </div>
 
 ---
