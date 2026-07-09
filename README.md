@@ -32,8 +32,8 @@ Atualmente, venho aprofundando meus estudos em:
 
 <div align="center">
   <a href="https://github.com/Maicaoxd">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Maicaoxd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maicaoxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Maicaoxd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Maicon%20Guedes%20-%20GitHub%20Stats"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maicaoxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas"/>
   </a>
 </div>
 
