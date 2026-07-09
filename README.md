@@ -1,4 +1,34 @@
-## 👋 Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá, eu sou o Maicon Guedes
+
+<div align="center">
+
+Desenvolvedor focado em **.NET**, **APIs**, **front-end moderno** e **banco de dados**.
+Tenho interesse em arquitetura de software, microsserviços, cloud, automação e boas práticas de desenvolvimento.
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor com experiência em desenvolvimento e sustentação de sistemas, atuando principalmente com **.NET**, **JavaScript/TypeScript**, **Vue.js**, **Quasar**, **SQL Server** e integrações entre sistemas.
+
+Gosto de construir soluções bem estruturadas, com código limpo, organização, segurança e foco em resolver problemas reais de negócio.
+
+Atualmente, venho aprofundando meus estudos em:
+
+* Arquitetura de software
+* APIs REST
+* Microsserviços
+* Docker e Containers
+* Kubernetes
+* Mensageria com RabbitMQ e Kafka
+* Cloud e DevOps
+* Boas práticas com .NET
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Maicaoxd">
@@ -9,9 +39,21 @@
 
 ---
 
+## 🧠 Principais habilidades
+
+* Desenvolvimento de APIs com **.NET**
+* Criação de interfaces com **Vue.js**, **Quasar**, **React** e **TypeScript**
+* Modelagem e consultas em **SQL Server** e **MySQL**
+* Integração entre sistemas
+* Sustentação, análise e correção de problemas em ambientes corporativos
+* Versionamento com **Git** e **GitHub**
+* Estudos práticos em **Docker**, **Kubernetes**, **mensageria** e **arquitetura de microsserviços**
+
+---
+
 ## 🖥️ Tecnologias & Ferramentas
 
-### ![Front-end](https://img.shields.io/badge/Front--end-blue?style=for-the-badge)
+### Front-end
 
 <div align="center">
   <img alt="HTML" height="40" width="40" style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -25,17 +67,39 @@
 
 ---
 
-### ⚙️ ![Back-end](https://img.shields.io/badge/Back--end-green?style=for-the-badge)
+### Back-end
 
 <div align="center">
-  <img alt="Node.js" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="C#" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt=".NET Core" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img alt="Node.js" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Java" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 ---
 
-### 🧪 ![Testes](https://img.shields.io/badge/Testes-yellow?style=for-the-badge)
+### Banco de Dados
+
+<div align="center">
+  <img alt="SQL Server" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img alt="MySQL" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
+
+---
+
+### DevOps, Cloud & Ferramentas
+
+<div align="center">
+  <img alt="Docker" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Kubernetes" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img alt="Git" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="Azure DevOps" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
+</div>
+
+---
+
+### Testes
 
 <div align="center">
   <img alt="Jest" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
@@ -43,12 +107,29 @@
 
 ---
 
-### 🗄️ ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-orange?style=for-the-badge)
+## 📌 O que você encontrará por aqui
 
-<div align="center">
-  <img alt="MySQL" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="SQL Server" height="40" width="40" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-</div>
+* Projetos de estudo e prática com **.NET**
+* APIs REST
+* Aplicações front-end
+* Estudos de arquitetura
+* Projetos acadêmicos
+* Testes com Docker, mensageria e cloud
+* Evolução contínua como desenvolvedor
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco evoluir constantemente como desenvolvedor, criando soluções robustas, escaláveis e bem organizadas.
+
+Tenho interesse em oportunidades que envolvam:
+
+* Desenvolvimento back-end com **.NET**
+* Desenvolvimento full stack
+* Arquitetura de software
+* Integrações entre sistemas
+* Cloud, DevOps e microsserviços
 
 ---
 
@@ -60,6 +141,9 @@
   </a>
   <a href="https://www.linkedin.com/in/maicon-alves-guedes-248584210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:maicon.ag17@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
