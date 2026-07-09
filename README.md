@@ -32,7 +32,6 @@ Atualmente, venho aprofundando meus estudos em:
 
 <div align="center">
   <a href="https://github.com/Maicaoxd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maicaoxd&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maicaoxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
   </a>
 </div>
